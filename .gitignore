@@ -1,0 +1,14 @@
+build/
+.gradle/
+*.iml
+.idea/
+out/
+run/
+hs_err_*.log
+*.log
+*.dll
+*.obj
+*.lib
+*.exp
+libs/*.jar
+*.tmp

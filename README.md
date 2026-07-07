@@ -42,7 +42,7 @@
 | Minecraft | 1.20.1 |
 | Forge | 47.4.20+ |
 | GTCEu | 1.20.1-1.8.0 |
-| GTOCore | 0.5.6-alpha |
+| GTOCore | 26.7.1-alpha |
 | JDK | 17+ |
 
 ## 配置

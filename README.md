@@ -42,8 +42,12 @@
 | Minecraft | 1.20.1 |
 | Forge | 47.4.20+ |
 | GTCEu | 1.20.1-1.8.0 |
-| GTOCore | 0.5.6-alpha |
-| JDK | 17+ |
+| GTOCore | 0.5.6-beta |
+| JDK | 21 |
+
+## 版本说明
+
+自 v1.20.1-v1.3-alpha-for-gtocore-0.5.6-beta 起，版本号采用 Forge 兼容格式（以数字开头），修复了先前版本因版本号格式不合法导致模组被 Forge 拒绝加载的问题。
 
 ## 配置
 
